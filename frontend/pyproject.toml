@@ -6,6 +6,7 @@ authors = ["Mike Nemke <mike@dangdata.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+streamlit = "^0.82.0"
 
 [tool.poetry.dev-dependencies]
 
